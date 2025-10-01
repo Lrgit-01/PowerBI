@@ -48,7 +48,8 @@ Each rep’s performance is visualized with horizontal bars for quick comparison
 
 ## 📸 Preview
 
-![Dashboard Screenshot](link-to-your-screenshot-if-hosted)
+<img width="1312" height="733" alt="image" src="https://github.com/user-attachments/assets/763a5746-ba63-4c46-b07b-9a6e43d6dc19" />
+
 
 ## 🛠️ Tools Used
 
